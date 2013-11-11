@@ -1,0 +1,181 @@
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Label labelCheckId: 
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3COMBO-WG-3\0128_1.6.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\0128_1.6.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  100.000%
+Percentage of correctly labeled Gates:  60.000%
+Percentage of correctly labeled Labels: .000%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3COMBO-WG-3\0128_1.7.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\0128_1.7.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  100.000%
+Percentage of correctly labeled Gates:  100.000%
+Percentage of correctly labeled Labels: .000%
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Gate labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Gate labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Wire labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Gate labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Wire labelCheckId: 
+*** UNKNOWN LABEL: Correct label: unlabeled, Examined label: Wire
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3COMBO-WG-3\0128_3.5.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\0128_3.5.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  66.667%
+Percentage of correctly labeled Gates:  69.231%
+Percentage of correctly labeled Labels: .000%
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Label labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Wire labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Label labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Label labelCheckId: 
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3COMBO-WG-3\0128_3.6.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\0128_3.6.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  90.909%
+Percentage of correctly labeled Gates:  86.667%
+Percentage of correctly labeled Labels: .000%
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Label labelCheckId: 
+*** UNKNOWN LABEL: Correct label: unlabeled, Examined label: Gate
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3COMBO-WG-3\0128_6.1.1.labeled.wire-gate-labe.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\0128_6.1.1.labeled.wire-gate-labe.xml.
+Percentage of correctly labeled Wires:  94.118%
+Percentage of correctly labeled Gates:  56.250%
+Percentage of correctly labeled Labels: .000%
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3COMBO-WG-3\0268_1.7.1.labeled.wire-gate-labe.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\0268_1.7.1.labeled.wire-gate-labe.xml.
+Percentage of correctly labeled Wires:  33.333%
+Percentage of correctly labeled Gates:  100.000%
+Percentage of correctly labeled Labels: .000%
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Gate labelCheckId: 
+*** UNKNOWN LABEL: Correct label: unlabeled, Examined label: Wire
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Gate labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Label labelCheckId: 
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3COMBO-WG-3\0268_1.8.1.labeled.wire-gate-labe.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\0268_1.8.1.labeled.wire-gate-labe.xml.
+Percentage of correctly labeled Wires:  33.333%
+Percentage of correctly labeled Gates:  66.667%
+Percentage of correctly labeled Labels: .000%
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Wire labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Gate labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Gate labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Gate labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Wire labelCheckId: 
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3COMBO-WG-3\0268_2.6.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\0268_2.6.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  65.000%
+Percentage of correctly labeled Gates:  78.571%
+Percentage of correctly labeled Labels: .000%
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Gate labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Label labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Label labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Wire labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Wire labelCheckId: 
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3COMBO-WG-3\0268_3.3.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\0268_3.3.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  100.000%
+Percentage of correctly labeled Gates:  66.667%
+Percentage of correctly labeled Labels: .000%
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Gate labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Gate labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Gate labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Gate labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Gate labelCheckId: 
+*** UNKNOWN LABEL: Correct label: unlabeled, Examined label: Gate
+*** UNKNOWN LABEL: Correct label: unlabeled, Examined label: Gate
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Wire labelCheckId: 
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3COMBO-WG-3\0268_3.4.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\0268_3.4.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  89.474%
+Percentage of correctly labeled Gates:  60.000%
+Percentage of correctly labeled Labels: .000%
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Label labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Wire labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Wire labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Gate labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Wire labelCheckId: 
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3COMBO-WG-3\0268_3.5.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\0268_3.5.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  100.000%
+Percentage of correctly labeled Gates:  88.889%
+Percentage of correctly labeled Labels: .000%
+*** UNKNOWN LABEL: Correct label: unlabeled, Examined label: Wire
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Gate labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Gate labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Gate labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Gate labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Gate labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Wire labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Wire labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Wire labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Wire labelCheckId: 
+*** UNKNOWN LABEL: Correct label: unlabeled, Examined label: Gate
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Label labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Label labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Label labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Label labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Label labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Label labelCheckId: 
+
+Comparing files C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\3COMBO-WG-3\0268_3.7.1.labeled.wire-gate-label.LABELED.xml and C:\Documents and Settings\Student\My Documents\Trunk2\Code\Recognition\RunCRF\INPUT-MULTIPASS-EASY-2\0268_3.7.1.labeled.wire-gate-label.xml.
+Percentage of correctly labeled Wires:  79.167%
+Percentage of correctly labeled Gates:  70.833%
+Percentage of correctly labeled Labels: .000%
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Gate labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Gate labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Gate labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Gate labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Gate labelCheckId: 
+*** UNKNOWN LABEL: Correct label: unlabeled, Examined label: Wire
+*** LabelCheck has length 0 => could not find a sustroke in sketchCheck ***
+Correct label: Wire labelCheckId: 
+*** LabelCheck has length 0 => could not find a sustroke 
